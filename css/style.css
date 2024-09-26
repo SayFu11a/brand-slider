@@ -374,3 +374,7 @@ body {
     transition: transform 0.7s;
 
 }
+
+.back-color {
+    background-color: rgba(248, 248, 248, 1);
+}
