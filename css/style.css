@@ -378,3 +378,8 @@ body {
 .back-color {
     background-color: rgba(248, 248, 248, 1);
 }
+
+
+.brands {
+    overflow: hidden;
+}
