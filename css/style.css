@@ -383,3 +383,15 @@ body {
 .brands {
     overflow: hidden;
 }
+
+
+.brands__item:hover {
+    position: relative;
+    transition: border 0.3s;
+    /* transform: scale(1.01); */
+    border: .1px solid rgba(255, 62, 121, 1);
+    /* z-index: 40; */
+    
+}
+
+
